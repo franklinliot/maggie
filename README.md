@@ -1,2 +1,1 @@
-# maggie
-Maggie: Quantify you life
+# Maggie: Quantify you life
